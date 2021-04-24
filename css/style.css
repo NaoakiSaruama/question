@@ -1,0 +1,31 @@
+li{
+  color: blue;
+}
+
+* {
+  line-height: 1;
+}
+
+.number__child {
+  padding-left: 40px;
+}
+
+.number__parent:nth-of-type(3n){
+  color:red;
+}
+
+.number__child:nth-child(n+2){
+  color:blue;
+}
+
+p{
+  font-family: 'Gorditas', cursive;
+}
+
+h2{
+  font-family: 'Noto Serif JP', serif;
+}
+
+body{
+  background-image: url(..//img/red.jpg);
+}
