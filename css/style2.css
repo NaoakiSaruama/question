@@ -1,5 +1,5 @@
 div{
-  display: flex;
+  display: inline-block;
 }
 
 p{
