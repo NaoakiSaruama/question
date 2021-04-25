@@ -1,0 +1,11 @@
+div{
+  width:100px;
+  height: 100px;
+  display: flex;
+  background: aqua no-repeat;
+  justify-content: space-around;
+}
+
+p{
+  background: aqua no-repeat;
+}
