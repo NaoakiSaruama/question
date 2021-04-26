@@ -1,14 +1,13 @@
 .part{
   width: 360px;
-  margin: 100px auto 0px;
+  margin: 100px auto 0;
   box-shadow: 5px 5px 3px#888888;
   border: solid #888888;
 }
 
 .devide{
   font-size: 14px;
-  display: block;
-  width: 77px;
+  display: inline-block;
   margin: 15px 0px 0px;
   color: #fff;
   background: #008888;
@@ -21,16 +20,11 @@
 
 .align{
   justify-content: flex-end;
+  display: block;
+  font-size: 14px;
 }
 
 .tag{
-  display: block;
-  font-size: 14px;
   padding: 0px 0px 15px;
   color: #008888;
-}
-
-.date{
-  font-size: 14px;
-  display: block;
 }

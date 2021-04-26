@@ -7,5 +7,7 @@ div{
 }
 
 p{
-  background: aqua no-repeat;
+  width:10px;
+  height: 10px;
+  background:violet no-repeat;
 }
