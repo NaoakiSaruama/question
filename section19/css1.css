@@ -1,0 +1,8 @@
+p::after{
+  content: "rrrr";
+  color:red;
+}
+
+.p{
+  font-size: 200px;
+}

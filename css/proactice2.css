@@ -1,8 +1,16 @@
+.whole{
+  justify-content: space-between;
+  display: flex;
+}
 .part{
-  width: 360px;
-  margin: 100px auto 0;
+  margin-top: 400px;
+  width: 30%;
   box-shadow: 5px 5px 3px#888888;
   border: solid #888888;
+}
+
+img{
+  width: 100%;
 }
 
 .devide{
@@ -20,6 +28,7 @@
 
 .align{
   justify-content: flex-end;
+  display: flex;
   font-size: 14px;
 }
 
