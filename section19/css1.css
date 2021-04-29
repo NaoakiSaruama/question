@@ -1,8 +1,8 @@
-p::after{
+p::before{
   content: "rrrr";
   color:red;
 }
 
 .p{
-  font-size: 200px;
+  font-size: 400px;
 }
