@@ -1,3 +1,9 @@
 .parents{
+  display: grid;
   grid-template-columns: 4fr 3fr 2fr;
+}
+
+.a{
+  grid-column: 1/2;
+  background: rosybrown;
 }

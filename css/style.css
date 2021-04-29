@@ -1,17 +1,5 @@
-div{
-  position: relative;
-  display: flex;
-  justify-content: right;
-}
-
-h1{
-  position:absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 50px;
-}
-
-
 img{
-  font-size: 50%;
+  display: block;
+  margin: 0 0 0 auto;
+  width: 50%;
 }
