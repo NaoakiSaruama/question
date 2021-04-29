@@ -1,9 +1,9 @@
 .parents{
   display: grid;
-  grid-template-columns: 4fr 3fr 2fr;
+  grid-template-columns: 1fr 3fr 2fr;
 }
 
 .a{
   grid-column: 1/2;
-  background: rosybrown;
+  background:linear-gradient(90deg red blue)
 }
